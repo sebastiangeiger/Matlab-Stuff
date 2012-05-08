@@ -1,6 +1,6 @@
 Contains so far:
 ##Rand Index
-Implements [RandIndex](http://en.wikipedia.org/wiki/Rand_index) that measures the similarity between to clusterings.
+Implements [RandIndex](http://en.wikipedia.org/wiki/Rand_index) that measures the similarity between two clusterings.
 Add the randIndex folder to your path and try this:
 
     data = [randn(10,2)+ones(10,2);randn(10,2)-ones(10,2)]
